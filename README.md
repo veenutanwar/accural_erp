@@ -5,15 +5,9 @@ Accural Erp lets you manage your accounts inventory quality as well production w
 
 develop with  angularjs laravel 4 and mysql.
 
-Can Manage Accounts, bank, cash
-Can Manage Inventory, Stock to decrease your dead stock.
-Can Manage Production Flow including Manufacturing process.
-Can Manage Quality process.
-Can Manage Human Resource Management.
-Can Manage Purchase tracking & good receive.
-Can Manage Customer Relation Management.
-Can Manage Logistic Process
-Can Manage Design & Development Process.
-Can Manage Projects.
+Accural Manage your Accounts, bank, cash, Inventory, Stock to decrease your dead stock, Production Flow , Manufacturing process, Quality process, Human Resource Management, Purchase tracking & goods receive,Customer Relation Management, Logistic Process, Design & Development Process & Projects.
+
+
+
 
 
